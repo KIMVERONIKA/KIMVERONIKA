@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KIM VERONIKA
+- 👋 Hi, I’m Veronika Kim
 - 👀 I’m interested in AI, Data Science
 - 🌱 I’m currently studying at VeraVla edu online school
 - 💞️ I’m looking to collaborate on AI and Data Science projects
