@@ -1,5 +1,5 @@
 -
-- Veronika Kim / Data Scientist / Seoul,  South Korea 
+- ✨ Veronika Kim / ✨ Data Scientist /✨ Seoul,  South Korea 
 -  
 - 👋 Hi, I’m Veronika Kim
 - 👀 I’m interested in AI, Data Science
