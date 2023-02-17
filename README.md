@@ -1,6 +1,4 @@
--
 - ✨ Veronika Kim / ✨ Data Scientist /✨ Seoul,  South Korea 
--  
 - 👋 Hi, I’m Veronika Kim
 - 👀 I’m interested in AI, Data Science
 - 🌱 I’m currently studying at VeraVla edu online school of Data Science, AI, ML-algorithm, Deep Learning
