@@ -11,3 +11,4 @@
 KIMVERONIKA/KIMVERONIKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Python PythonTensorFlow TensorFlowKeras KerasPandas Pandasscikit-learn scikit-learnNLP NLPAI/인공지능 AI/인공지능DeepLearning DeepLearningMachineLearning MachineLearning
